@@ -1,0 +1,17 @@
+﻿  lab4_a.c
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(86): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+  c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(86): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(114): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(116): warning C4013: strcat: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(164): warning C4098: input: функция типа "void", возвращающая значение
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(170): warning C4098: input: функция типа "void", возвращающая значение
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(171): warning C4098: input: функция типа "void", возвращающая значение
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(177): warning C4098: input: функция типа "void", возвращающая значение
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(178): warning C4098: input: функция типа "void", возвращающая значение
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(185): warning C4098: input: функция типа "void", возвращающая значение
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(189): warning C4098: input: функция типа "void", возвращающая значение
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\lab4_a.c(190): warning C4098: input: функция типа "void", возвращающая значение
+  main.c
+c:\users\zver\desktop\c\лаба 4\а\project1\project1\main.c(15): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "void *"
+  Создание кода...
+  Project1.vcxproj -> C:\Users\Zver\Desktop\C\Лаба 4\а\Project1\Debug\Project1.exe
