@@ -1,0 +1,1 @@
+![Alt-текст](https://github.com/Infernalum/ASOD_S01.EP01/blob/master/lab5/var28.png)
